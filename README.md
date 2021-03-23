@@ -1,7 +1,7 @@
 # Demo
 dem demo
 <p>
-  <img src="https://raw.githubusercontent.com/MessageKit/MessageKit/master/Assets/mklogo.png" title="MessageKit logo">
+  <img src="https://thorsignia.net/thorsignia1/wp-content/uploads/2017/07/logo-1.png" title="Demo logo">
 </p>
 
 [![Build Status](https://travis-ci.org/MessageKit/MessageKit.svg)](https://travis-ci.org/MessageKit/MessageKit) [![codecov](https://codecov.io/gh/MessageKit/MessageKit/branch/master/graph/badge.svg)](https://codecov.io/gh/MessageKit/MessageKit)
